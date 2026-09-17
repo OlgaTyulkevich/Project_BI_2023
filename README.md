@@ -19,15 +19,18 @@ ___
 Мониторинговый дашборд. Нажав на кнопку переходим в нужный блок.
 ![img](https://github.com/OlgaTyulkevich/Project_BI_2023/blob/files/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F.png)
 
+
 ### Диагностический дашборд по метрике Текучка.
 ![img](https://github.com/OlgaTyulkevich/Project_BI_2023/blob/files/%D0%A2%D0%B5%D0%BA%D1%83%D1%87%D0%BA%D0%B0-1.png)
 
-### Детализация по отделам
-![img](https://github.com/OlgaTyulkevich/Project_BI_2023/blob/files/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB_!!2.png)
 
-### Информация по Проектам
-![img](https://github.com/OlgaTyulkevich/Project_BI_2023/blob/files/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B.png)
 
+### Диагностический дашборд по метрике Чистая Прибыль.
+![img](https://github.com/OlgaTyulkevich/Project_BI_2023/blob/files/%D0%A7%D0%B8%D1%81%D1%82%D0%B0%D1%8F%D0%9F%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D1%8C.png).
+
+
+### Диагностический дашборд по метрике Выручка.
+![img](https://github.com/OlgaTyulkevich/Project_BI_2023/blob/files/%D0%92%D1%8B%D1%80%D1%83%D1%87%D0%BA%D0%B01.png).
 
 
 
